@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "jquery": "^3.6.3"
+  },
+  "name": "simple-application-with-jquery",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusmendescosta/simple-application-with-jquery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusmendescosta/simple-application-with-jquery/issues"
+  },
+  "homepage": "https://github.com/matheusmendescosta/simple-application-with-jquery#readme"
+}
